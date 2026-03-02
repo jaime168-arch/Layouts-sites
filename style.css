@@ -1,5 +1,13 @@
-body{
+.purple{
     background-color: purple;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+.blue{
+    background-color: blue;
+    padding: 20px;
+    margin: 30px;
 }
 .yo{
     padding: 50;
@@ -9,4 +17,5 @@ body{
 .flex{
     display: flex;
 }
+
 
