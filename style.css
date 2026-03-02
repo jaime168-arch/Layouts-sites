@@ -17,5 +17,8 @@
 .flex{
     display: flex;
 }
+.baixo{
+    padding-bottom: 80px;
+}
 
 
