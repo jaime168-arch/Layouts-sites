@@ -1,22 +1,11 @@
-.purple {
+body{
     background-color: purple;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
 }
-
-.blue {
-    background-color: blue;
-    padding: 20px;
-    margin: 10px;
-}
-
-.yo {
+.yo{
+    padding: 50;
+    margin: 20;
     background-color: yellow;
-    padding: 20px;
-    margin: 10px;
 }
-
-.flex {
+.flex{
     display: flex;
 }
